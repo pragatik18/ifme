@@ -82,6 +82,7 @@ open source project by [becoming a sponsor](https://opencollective.com/ifme#spon
 
 ## License
 
+
 The source code is licensed under GNU AGPLv3. For more information see
 http://www.gnu.org/licenses/agpl-3.0.txt or
 [LICENSE.txt](https://github.com/ifmeorg/ifme/blob/main/LICENSE.txt).
